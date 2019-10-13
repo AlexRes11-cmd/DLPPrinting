@@ -1,0 +1,6 @@
+Just like their SLA counterparts, desktop DLP 3D printers are built around a resin tank with transparent bottom and a build platform that descends into a resin tank to create parts upside down, layer by layer.
+
+The difference is the light source. DLP 3D printers use a digital projector screen to flash an image of a layer across the entire platform, curing all points simultaneously. 
+The light is reflected on a Digital Micromirror Device (DMD), a dynamic mask consisting of microscopic-size mirrors laid out in a matrix on a semiconductor chip. Rapidly toggling these tiny mirrors between lens(es) that direct the light towards the bottom of the tank or a heat sink defines the coordinates where the liquid resin cures within the given layer. 
+
+Because the projector is a digital screen, the image of each layer is composed of square pixels, resulting in a three-dimensional layer formed from small rectangular cubes called voxels.
